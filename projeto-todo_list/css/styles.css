@@ -1,0 +1,14 @@
+.fonte {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.border-visual {
+    border: 2px dashed #00ff00; /* Borda verde pontilhada */
+    /
+}
+
+.custom-container-size {
+    max-width: 500px;
+    width: 90%;
+}
+
